@@ -1,4 +1,6 @@
-# FNF Portfolio
+# 🟧 **Work is full, come back later**
+
+# Status
 
 ## Mods I Worked On
 
@@ -29,6 +31,3 @@ Some are not in the list, this depends if they are officially released whether d
 
 ### Are you a paid coder?
 Was effective in February 2023, price varies depending on work needed
-
-### Are you available now?
-🟧 Work is full, come back later
