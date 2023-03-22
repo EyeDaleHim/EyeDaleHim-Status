@@ -3,7 +3,7 @@
 ## Questions
 
 ### How can I contact you?
-You can contact me on Twitter, Discord, or create a GitHub issue, preferably Twitter.
+You can contact me on Twitter, or Discord, preferably Twitter.
 
 ### Are you occupied?
 Currently enrolled in School, time is limited during weekdays
